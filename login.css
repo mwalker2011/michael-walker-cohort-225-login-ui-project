@@ -1,5 +1,5 @@
 html,body{
-    margin: 0px;
+    margin: 0;
 }
 
 .container {
@@ -12,6 +12,7 @@ html,body{
 
 .card   {
     background-color: whitesmoke;
+    padding: 10px;
     border-radius: 16px;
     box-shadow: 10px 10px 5px 0px grey;
     min-height: 33%;
@@ -26,7 +27,7 @@ html,body{
 .card h2 {
     font-size: 2rem;
     font-family: serif;
-    margin: 20px;
+    margin: 2px;
 }
 
 .box {
@@ -41,8 +42,8 @@ html,body{
 
 #submit {
     padding: 12px 30px;
-    width: 40%;
-    margin: 30px;
+    width: 50%;
+    margin: 16px;
     background-color: rgb(24, 144, 199);
     color: white;
     border: none;
